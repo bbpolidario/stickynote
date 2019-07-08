@@ -5,3 +5,6 @@ Published on July 7th, 2019
 
 <h3>Description</h3>
 A sticky note kind of app created in React.js
+
+Play around here:
+<a href="https://bbpolidario.github.io/stickynote"/>https://bbpolidario.github.io/stickynote</a>
